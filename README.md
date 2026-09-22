@@ -1,6 +1,8 @@
 👋 Hello, I'm Rabinson!
 
-🎓 Recently graduated — MSc in Data Science 📍 Copenhagen, Denmark 📧 Email: rabinsonpariyar16@gmail.com 🔗 LinkedIn: rabinson-pariyar 🐙 GitHub: rabinsonpyr
+🎓 Recently graduated — MSc in Data Science 📍 Copenhagen, Denmark 📧 Email: rabinsonpariyar16@gmail.com 
+🔗 LinkedIn: rabinson-pariyar 
+🔗 GitHub: rabinsonpyr
 
 About Me 🌐
 
